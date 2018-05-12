@@ -1,4 +1,8 @@
 _repo: The-Eleven-Comedies-Volume-2_8689
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aristophanes
@@ -17,6 +21,8 @@ description: This anthology is a thorough introduction to classic literature for
   collection brings together works as diverse and influential as The Pilgrim's Progress
   and Othello. As an anthology that invites readers to immerse themselves in the masterpieces
   of the literary giants, it is a must-have addition to any library.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8689#The-Eleven-Comedies-Volume-2
 gutenberg_bookshelf: Classical Antiquity
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
